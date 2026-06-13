@@ -1,0 +1,15 @@
+==================================================
+            RESULTS SUMMARY
+==================================================
+Name                 |  Avg | Grade | Comment
+------------------------------------------------------------
+John Smith           |  88.3 |   B   | Very Good! You're doing well.
+Sarah Johnson        |  81.3 |   B   | Very Good! You're doing well.
+
+==================================================
+          CLASS STATISTICS
+==================================================
+Total Students: 2
+Class Average: 84.8
+Highest Average: 88.3 (John Smith)
+Lowest Average: 81.3 (Sarah Johnson)

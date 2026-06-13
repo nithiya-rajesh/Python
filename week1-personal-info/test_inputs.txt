@@ -1,0 +1,15 @@
+# Test Case 1: Normal input
+Pizza
+Blue
+
+# Test Case 2: Empty input (food/color left blank)
+<press Enter>
+<press Enter>
+
+# Test Case 3: Long strings
+Supercalifragilisticexpialidocious
+TurquoiseGreenishBlue
+
+# Test Case 4: Edge case with unusual characters
+@#$%^&*
+12345
