@@ -1,0 +1,23 @@
+# Contact Management System - Requirements
+# Week 3 Project - Functions & Dictionaries
+
+# Note: This project uses only Python Standard Library
+# No external dependencies are required!
+
+# Python version requirement
+# python >= 3.7
+
+# Standard Library modules used:
+# - json (built-in) - For saving/loading contact data
+# - re (built-in) - For email and phone validation
+# - os (built-in) - For file operations
+# - csv (built-in) - For CSV export functionality
+# - datetime (built-in) - For timestamps
+
+# Installation:
+# No pip install needed! Just run:
+# python contacts_manager.py
+
+# Optional: For development/testing
+# pytest >= 6.0 (optional, for enhanced testing)
+# black >= 21.0 (optional, for code formatting)
