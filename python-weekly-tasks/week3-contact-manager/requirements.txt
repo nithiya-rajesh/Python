@@ -1,8 +1,0 @@
-# Week 3 Contact Manager requirements
-# Python standard libraries only (no external dependencies)
-
-json
-csv
-re
-datetime
-unittest
