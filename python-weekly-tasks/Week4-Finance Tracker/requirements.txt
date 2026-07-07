@@ -1,0 +1,24 @@
+# Week 4 Finance Tracker - Requirements
+# ====================================
+#
+# This project uses ONLY Python Standard Library
+# No external dependencies required!
+#
+# Python version: 3.7+
+#
+# Standard library modules used:
+# - json (built-in) - For JSON file operations
+# - csv (built-in) - For CSV export/import
+# - os (built-in) - For file/directory operations
+# - pathlib (built-in) - For cross-platform paths
+# - datetime (built-in) - For date/time operations
+# - collections (built-in) - For defaultdict
+# - unittest (built-in) - For testing
+#
+# Installation:
+# No pip install needed!
+# Just ensure Python 3.7+ is installed
+#
+# To run:
+# python run.py
+#

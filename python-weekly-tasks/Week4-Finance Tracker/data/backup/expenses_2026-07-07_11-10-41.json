@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {
+      "date": "2026-07-17",
+      "amount": 5800.0,
+      "category": "Food",
+      "description": "Hotel",
+      "created_at": "2026-07-07T11:09:26.833201"
+    },
+    {
+      "date": "2026-10-15",
+      "amount": 85795.0,
+      "category": "Shopping",
+      "description": "shopping",
+      "created_at": "2026-07-07T11:09:53.839489"
+    }
+  ],
+  "budgets": {},
+  "last_saved": "2026-07-07T11:09:53.864792"
+}
