@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "9781593279288",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-10"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "isbn": "9781593275990",
+    "year": 2015,
+    "available": false,
+    "borrowed_by": "MEM001",
+    "due_date": "2024-02-15",
+    "date_added": "2024-01-05"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn": "9781491946008",
+    "year": 2022,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-12"
+  }
+]
